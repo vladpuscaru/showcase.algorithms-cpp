@@ -1,0 +1,9 @@
+# ninja log v5
+1	239	1703169340158757052	CMakeFiles/algorithms.dir/src/Pathfinder/Graph/Graph.cpp.o	b78ccfbf1371ad67
+1	344	1703169340261598934	CMakeFiles/algorithms.dir/src/AssetsRepository/AssetsRepository.cpp.o	b8b0ba135e411b3c
+1	370	1703169340289561028	CMakeFiles/algorithms.dir/src/Tile/Tile.cpp.o	efd7219fc23fe837
+0	379	1703169340297959527	CMakeFiles/algorithms.dir/src/World/World.cpp.o	f6c589bc20face7a
+0	399	1703169340318143198	CMakeFiles/algorithms.dir/src/main.cpp.o	85e64d0d0d8ee7a5
+0	412	1703169340331559855	CMakeFiles/algorithms.dir/src/Game/Game.cpp.o	c40ee06d34d3e918
+1	432	1703169340351821485	CMakeFiles/algorithms.dir/src/Pathfinder/StatePathfinder.cpp.o	da741f4605ecfeac
+432	467	1703169340389459564	algorithms	37d90e20277b17d6
